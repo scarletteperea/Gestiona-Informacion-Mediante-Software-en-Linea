@@ -3,4 +3,4 @@ Repositorio para ejercicios y preuebas de la materia Gestiona Informacion Median
 
 github
 
-caracteristicas, ventajas y desventajas
+Caracteristicas, ventajas y desventajas
