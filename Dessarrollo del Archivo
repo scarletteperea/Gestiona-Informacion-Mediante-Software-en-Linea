@@ -1,17 +1,60 @@
 Preguntas
 
 Informacion 1
+
 ¿QUE ES UN COMMIT?
+Un commit es un registro de cambios realizados en un proyecto dentro de un sistema de control de versiones como Git.
+Cada commit guarda una “fotografía” del proyecto en un momento específico, junto con un mensaje que explica qué cambios se hicieron.
+
+Ejemplo:
+
+Se agrega una nueva función.
+Se corrige un error.
+Se modifica el diseño de una página.
 
 ¿PARA QUE SIRVE EL HISTORIAL DE VERSIONES?
+El historial de versiones permite guardar y consultar todos los cambios realizados en un proyecto a lo largo del tiempo.
+
+Sirve para:
+
+Recuperar versiones anteriores.
+Ver quién hizo cada cambio.
+Detectar errores fácilmente.
+Comparar modificaciones entre versiones.
+Mantener organizado el desarrollo del proyecto.
 
 ¿QUE VENTAJAS TIENE GITHUB PARA TRABAJO COLABORATIVO?
+GitHub ofrece varias ventajas para trabajar en equipo:
 
+Varias personas pueden trabajar en el mismo proyecto al mismo tiempo.
+Permite compartir código de forma sencilla.
+Facilita revisar cambios antes de integrarlos.
+Guarda el historial completo del proyecto.
+Ayuda a resolver conflictos entre versiones.
+Permite trabajar desde diferentes lugares y dispositivos.
 
 Informacion 2
 
-
 ¿QUE SUCEDE SI UN ARCHIVO SE ELIMINA ACCIDENTALMENTE?
+Si un archivo se elimina accidentalmente, normalmente puede recuperarse gracias al historial de versiones de Git.
+Como los commits guardan copias de los cambios anteriores, es posible restaurar el archivo desde una versión previa del proyecto.
+
+Esto evita perder trabajo importante.
 
 ¿PORQUE ES IMPORTANTE ESCRIBIR MENSAJES CLAROS EN LOS COMMITS?
+Los mensajes claros ayudan a entender rápidamente qué cambios se realizaron y por qué se hicieron.
 
+Son importantes porque:
+
+Facilitan el trabajo en equipo.
+Ayudan a encontrar errores.
+Mejoran la organización del proyecto.
+Permiten revisar el historial de manera más eficiente.
+
+Ejemplo de buen mensaje:
+
+“Se corrigió el error de inicio de sesión”
+
+Ejemplo de mal mensaje:
+
+“Cambios”
